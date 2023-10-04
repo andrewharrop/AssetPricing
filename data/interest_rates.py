@@ -1,6 +1,6 @@
 import requests
 
-FRED_API_KEY = "10d1cf69d80e6bc531f68386d2abb938"
+FRED_API_KEY = "FRED_API_KEY"
 
 def USTreasury10YrRate():
     series = "DGS10"
